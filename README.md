@@ -1,2 +1,2 @@
-# tech_blog
+# github_test
 github test
